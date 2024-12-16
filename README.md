@@ -1,5 +1,8 @@
 # AWS-VPC-Labs
-<h2>Lab 1</h2>
+<h2>Creating a Basic VPC and Associated Components in AWS</h2>
+<p>In this hands-on lab, I created a VPC with an internet gateway, as well as create subnets across multiple Availability Zones. This lab was completed in a sandbox environment through A Cloud Guru. </p>
+<a src="https://youtu.be/F3JuD73ZKeI"></a>
+<h2>Lab 2</h2>
 <img width="1434" alt="vpc2" src="https://github.com/user-attachments/assets/a9ff8796-dc1e-4fe9-8465-c1686a224531"></br>
 1 - Creating a private and public subnet for the vpc created and placing them in two different AZs
 <img width="1434" alt="vpc3" src="https://github.com/user-attachments/assets/c9ed498e-cf62-44db-87b1-d6a8be881464"></br>
